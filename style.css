@@ -1,26 +1,31 @@
+.main{
+    padding: 170px;
+
+}
+
+
 .a{
-    position: absolute;
     top: 30%;
     left: 30%;
     width: 30%;
-    border: 2px solid blue;
+    border: 3px solid rgb(4, 4, 150);
     border-radius: 12px;
     padding: 50px;
 
     text-align: center;
-    background-color: black;
+    background-color: rgb(90, 103, 218);
 }
 
 .b {
-    border: 2px solid green;
+    border: 3px solid rgb(224, 221, 15);
     border-radius: 12px;
     padding: 50px;
-    background-color: blueviolet;
+    background-color: rgb(48, 64, 156);
 }
 .c {
-    border: 2px solid yellow;
+    border: 3px solid rgb(219, 219, 10);
     border-radius: 12px;
     padding: 50px;
-    background-color: cyan;
+    background-color: rgb(30, 30, 99);
 
 }
